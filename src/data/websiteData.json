@@ -1,0 +1,288 @@
+{
+  "templateName": "Professional Three Page",
+  "formData": {
+    "businessName": {
+      "answer": "Elite Property Leads (ujk)"
+    },
+    "websiteGoals": {
+      "answer": "Generate high-quality leads for real estate agents and investors through targeted digital marketing and property matching services."
+    },
+    "uniqueSellingPoints": {
+      "answer": "We deliver pre-qualified leads for buyers, sellers, and investors using AI-powered matching, local market analysis, and multi-channel campaigns.\n\nSkip cold calling – get warm leads ready to transact. Our system combines SEO, social ads, and email nurturing to fill your pipeline with serious prospects.\n\nFrom luxury homes to commercial properties, we specialize in your niche. Step 1: Complete our market assessment, then we customize a lead gen strategy and launch campaigns within days.\n\nBoost your closings with leads that convert – proven 20% higher than industry average."
+    },
+    "mainColor": {
+      "answer": "#1E90FF"
+    },
+    "baseBgColor": {
+      "answer": "#f5f5f5"
+    },
+    "textColor": {
+      "answer": "#333333"
+    },
+    "bgLayoutType": {
+      "answer": "solid"
+    }
+  },
+  "pages": [
+    {
+      "components": [
+        {
+          "id": "imageTextBox-0",
+          "type": "imageTextBox",
+          "order": 0,
+          "context": "Highlights a product or service with image + text",
+          "props": {
+            "title": "Unlock Your Real Estate Potential",
+            "description": "Discover how our AI-powered lead generation system can transform your business by providing high-quality, pre-qualified leads tailored for real estate agents and investors.",
+            "buttonText": "Get Started",
+            "array": [],
+            "mainColor": "#1E90FF",
+            "textColor": "#333333",
+            "baseBgColor": "#f5f5f5",
+            "bgLayout": {
+              "type": "solid"
+            }
+          }
+        },
+        {
+          "id": "textAndList-1",
+          "type": "textAndList",
+          "order": 1,
+          "context": "Provides a bulleted list of features/benefits",
+          "props": {
+            "subTitle": "Why Choose Us?",
+            "title": "Elite Property Leads Advantages",
+            "description": "Experience the difference with our unique approach to lead generation.",
+            "textArray": [
+              {
+                "title": "AI-Powered Matching",
+                "description": "Connect with the right buyers and sellers using our advanced algorithms."
+              },
+              {
+                "title": "Local Market Expertise",
+                "description": "Benefit from insights tailored to your specific real estate market."
+              },
+              {
+                "title": "Multi-Channel Campaigns",
+                "description": "Reach prospects through SEO, social ads, and email nurturing."
+              },
+              {
+                "title": "Higher Conversion Rates",
+                "description": "Enjoy leads that convert 20% higher than the industry average."
+              }
+            ],
+            "array": [
+              {
+                "title": "AI-Powered Matching",
+                "description": "Connect with the right buyers and sellers using our advanced algorithms."
+              },
+              {
+                "title": "Local Market Expertise",
+                "description": "Benefit from insights tailored to your specific real estate market."
+              },
+              {
+                "title": "Multi-Channel Campaigns",
+                "description": "Reach prospects through SEO, social ads, and email nurturing."
+              },
+              {
+                "title": "Higher Conversion Rates",
+                "description": "Enjoy leads that convert 20% higher than the industry average."
+              }
+            ],
+            "mainColor": "#1E90FF",
+            "textColor": "#333333",
+            "baseBgColor": "#f5f5f5",
+            "bgLayout": {
+              "type": "solid"
+            }
+          }
+        },
+        {
+          "id": "featureBoxes-2",
+          "type": "featureBoxes",
+          "order": 2,
+          "context": "A grid of feature boxes, each displaying an image, title, and description. Perfect for showcasing features, services, or benefits.",
+          "props": {
+            "title": "Our Services",
+            "description": "Explore how we can elevate your real estate business.",
+            "array": [
+              {
+                "title": "Lead Generation",
+                "description": "Get access to pre-qualified leads ready to transact."
+              },
+              {
+                "title": "Market Assessment",
+                "description": "We analyze your local market to tailor your strategy."
+              },
+              {
+                "title": "Campaign Launch",
+                "description": "Quickly implement effective marketing campaigns within days."
+              },
+              {
+                "title": "Ongoing Support",
+                "description": "Receive continuous support and optimization for your campaigns."
+              },
+              {
+                "title": "Niche Specialization",
+                "description": "Focus on luxury homes, commercial properties, and more."
+              }
+            ],
+            "mainColor": "#1E90FF",
+            "textColor": "#333333",
+            "baseBgColor": "#f5f5f5",
+            "bgLayout": {
+              "type": "solid"
+            }
+          }
+        },
+        {
+          "id": "closingStatement-3",
+          "type": "closingStatement",
+          "order": 3,
+          "context": "Final powerful message with logo",
+          "props": {
+            "title": "Transform Your Real Estate Success Today!",
+            "description": "Join Elite Property Leads and take the first step towards generating high-quality leads that convert. Our innovative strategies and dedicated support will empower you to reach your goals and close more deals. Don't wait—partner with us now to unlock your real estate potential!",
+            "array": [],
+            "mainColor": "#1E90FF",
+            "textColor": "#333333",
+            "baseBgColor": "#f5f5f5",
+            "bgLayout": {
+              "type": "solid"
+            }
+          }
+        }
+      ],
+      "text": [
+        {
+          "componentId": "imageTextBox-0",
+          "componentType": "imageTextBox",
+          "text": {
+            "title": "Unlock Your Real Estate Potential",
+            "description": "Discover how our AI-powered lead generation system can transform your business by providing high-quality, pre-qualified leads tailored for real estate agents and investors.",
+            "buttonText": "Get Started",
+            "array": [],
+            "mainColor": "#1E90FF",
+            "textColor": "#333333",
+            "baseBgColor": "#f5f5f5",
+            "bgLayout": {
+              "type": "solid"
+            }
+          }
+        },
+        {
+          "componentId": "textAndList-1",
+          "componentType": "textAndList",
+          "text": {
+            "subTitle": "Why Choose Us?",
+            "title": "Elite Property Leads Advantages",
+            "description": "Experience the difference with our unique approach to lead generation.",
+            "textArray": [
+              {
+                "title": "AI-Powered Matching",
+                "description": "Connect with the right buyers and sellers using our advanced algorithms."
+              },
+              {
+                "title": "Local Market Expertise",
+                "description": "Benefit from insights tailored to your specific real estate market."
+              },
+              {
+                "title": "Multi-Channel Campaigns",
+                "description": "Reach prospects through SEO, social ads, and email nurturing."
+              },
+              {
+                "title": "Higher Conversion Rates",
+                "description": "Enjoy leads that convert 20% higher than the industry average."
+              }
+            ],
+            "array": [
+              {
+                "title": "AI-Powered Matching",
+                "description": "Connect with the right buyers and sellers using our advanced algorithms."
+              },
+              {
+                "title": "Local Market Expertise",
+                "description": "Benefit from insights tailored to your specific real estate market."
+              },
+              {
+                "title": "Multi-Channel Campaigns",
+                "description": "Reach prospects through SEO, social ads, and email nurturing."
+              },
+              {
+                "title": "Higher Conversion Rates",
+                "description": "Enjoy leads that convert 20% higher than the industry average."
+              }
+            ],
+            "mainColor": "#1E90FF",
+            "textColor": "#333333",
+            "baseBgColor": "#f5f5f5",
+            "bgLayout": {
+              "type": "solid"
+            }
+          }
+        },
+        {
+          "componentId": "featureBoxes-2",
+          "componentType": "featureBoxes",
+          "text": {
+            "title": "Our Services",
+            "description": "Explore how we can elevate your real estate business.",
+            "array": [
+              {
+                "title": "Lead Generation",
+                "description": "Get access to pre-qualified leads ready to transact."
+              },
+              {
+                "title": "Market Assessment",
+                "description": "We analyze your local market to tailor your strategy."
+              },
+              {
+                "title": "Campaign Launch",
+                "description": "Quickly implement effective marketing campaigns within days."
+              },
+              {
+                "title": "Ongoing Support",
+                "description": "Receive continuous support and optimization for your campaigns."
+              },
+              {
+                "title": "Niche Specialization",
+                "description": "Focus on luxury homes, commercial properties, and more."
+              }
+            ],
+            "mainColor": "#1E90FF",
+            "textColor": "#333333",
+            "baseBgColor": "#f5f5f5",
+            "bgLayout": {
+              "type": "solid"
+            }
+          }
+        },
+        {
+          "componentId": "closingStatement-3",
+          "componentType": "closingStatement",
+          "text": {
+            "title": "Transform Your Real Estate Success Today!",
+            "description": "Join Elite Property Leads and take the first step towards generating high-quality leads that convert. Our innovative strategies and dedicated support will empower you to reach your goals and close more deals. Don't wait—partner with us now to unlock your real estate potential!",
+            "array": [],
+            "mainColor": "#1E90FF",
+            "textColor": "#333333",
+            "baseBgColor": "#f5f5f5",
+            "bgLayout": {
+              "type": "solid"
+            }
+          }
+        }
+      ],
+      "pageName": "Home",
+      "slug": "/"
+    }
+  ],
+  "status": "draft",
+  "createdAt": "2025-11-24T01:22:55.879Z",
+  "updatedAt": "2025-11-24T01:25:02.205Z",
+  "ownerId": "69038ae0a3e8d5386f523806",
+  "websiteName": "Elite Property Leads (ujk)",
+  "_id": "6922027a20a1ca2ba69a15b6",
+  "owner": "focusflowsoftware@gmail.com",
+  "__v": 0
+}
